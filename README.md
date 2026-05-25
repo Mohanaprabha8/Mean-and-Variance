@@ -49,8 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-#Developed by : MOHANAPRABHA D
-#Register No : 212225040254
+Developed by : MOHANAPRABHA D
+Register No : 212225040254
 
 # Input: Enter the number of arrivals separated by space
 L = [int(i) for i in input("Enter arrival data: ").split()]
